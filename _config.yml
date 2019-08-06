@@ -15,8 +15,8 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Memories"
+locale                   : "ko-KR" #"en-US"
+title                    : "memories"
 title_separator          : "-"
 subtitle                 : "my life log" # site tagline that appears below site title in masthead
 name                     : "Joel Ryu"
