@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joel Ryu"
 description              : "Site Descr"
-url                      : "https://bezzstyle.github.io"
+url                      : "https://bezzstyle.github.io/blog"
 baseurl                  : "/blog"
 repository               : "bezzstyle/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
